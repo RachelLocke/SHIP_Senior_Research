@@ -7,3 +7,6 @@ Mentors: Dr. Alice Armstrong and Dr. C. Dudley Girard
 Abstract— This paper and files, focuses on comparing the effects of scaling an image on Convolutional Neural Networks (CNN). More specifically this paper is composed of the literary background on images, image classification, neural networks, and convolutional neural networks. Proposed in this paper is a primary research objective, goal tree, hypothesis, a milestone schedule, and an experiment design and solution description related to image classification.
 
 Dataset - CIFAR10 https://www.cs.toronto.edu/~kriz/cifar.html
+
+Transpose Files - Transposing 32x32 images into 16x16 or 8x8 sized images
+CNN Files - CNN models for images of sizes 32x32, 16x16, 8x8
